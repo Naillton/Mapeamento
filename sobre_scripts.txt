@@ -1,0 +1,2 @@
+Para a fase de mapeamento eu estarei usando em alguns scripts a biblioteca Scapy
+ela permite a manipulação de pacotes de rede
